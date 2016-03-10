@@ -1,5 +1,5 @@
 # AppiumDemo
-Automation of GitHub Andriod application using Appium .
+Automation of GitHub Andriod application using Appium ...
 
 
 
